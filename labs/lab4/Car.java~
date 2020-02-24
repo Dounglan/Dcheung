@@ -1,0 +1,10 @@
+//Dounglan Cheung, dcheun01
+//2.5.2020
+public class Car {
+  
+  private String make;
+  private int year;
+  private double speed;
+  
+  
+}
