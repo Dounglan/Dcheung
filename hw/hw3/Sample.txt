@@ -1,0 +1,113 @@
+$ java Hangman 
+Welcome to CS 139 -- Word Guess!!
+
+Guess a letter to see if it's in the word.
+The word you are trying to guess has 7 letters.
+
+_ _ _ _ _ _ _
+Strikes: 0	Guesses: 
+
+What is your guess: a
+
+Nope... a is not in the word.
+
+_ _ _ _ _ _ _
+Strikes: 1	Guesses: a
+
+Keep trying...
+
+What is your guess: e
+
+Nope... e is not in the word.
+
+_ _ _ _ _ _ _
+Strikes: 2	Guesses: a e
+
+Keep trying...
+
+What is your guess: o
+
+YES!! o is in the word.
+
+_ _ _ _ o _ _
+Strikes: 2	Guesses: a e o
+
+Keep trying...
+
+What is your guess: n
+
+YES!! n is in the word.
+
+_ n _ n o _ n
+Strikes: 2	Guesses: a e o n
+
+Keep trying...
+
+What is your guess: o
+
+YES!! o is in the word.
+
+_ n _ n o _ n
+Strikes: 2	Guesses: a e o n
+
+Keep trying...
+
+What is your guess: t
+
+Nope... t is not in the word.
+
+_ n _ n o _ n
+Strikes: 3	Guesses: a e o n t
+
+Keep trying...
+
+What is your guess: b
+
+Nope... b is not in the word.
+
+_ n _ n o _ n
+Strikes: 4	Guesses: a e o n t b
+
+Keep trying...
+
+What is your guess: b
+
+Nope... b is not in the word.
+
+_ n _ n o _ n
+Strikes: 4	Guesses: a e o n t b
+
+Keep trying...
+
+What is your guess: u
+
+YES!! u is in the word.
+
+u n _ n o _ n
+Strikes: 4	Guesses: a e o n t b u
+
+Keep trying...
+
+What is your guess: w
+
+YES!! w is in the word.
+
+u n _ n o w n
+Strikes: 4	Guesses: a e o n t b u w
+
+Keep trying...
+
+What is your guess: k
+
+YES!! k is in the word.
+
+u n k n o w n
+Strikes: 4	Guesses: a e o n t b u w k
+
+	You Win!!!! 
+
+Do you want to play again (yes/no)? 
+no
+
+Game over.  Play again soon.
+
