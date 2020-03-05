@@ -1,2 +1,2 @@
 # Java
-Hws, labs, projects involving Java
+Hws, labs, projects
